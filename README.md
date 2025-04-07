@@ -1,16 +1,33 @@
-# expense_tracker_ui
+# 💸 Flutter Expense Tracker UI
 
-A new Flutter project.
+A sleek and visually appealing **Expense Tracker** app UI built using **Flutter**. This project features an intuitive interface, vibrant gradient themes, and dynamic graph visualizations to help users better understand their spending patterns.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+| Home Page | Graph View |
+|-----------|------------|
+| ![Home Screen](screenshots/home_screen.png) | ![Graph Screen](screenshots/graph_screen.png) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> _💡 Place your screenshots inside a folder named `screenshots/` in the root directory._
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features
+
+- 📊 **Interactive Graphs** to visualize expenses
+- 🎨 **Beautiful Gradient UI** with modern design
+- 🔍 Organized Expense Overview
+- 🌓 Supports Light/Dark Mode (if implemented)
+- 💡 Responsive layout adaptable for various screen sizes
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/ArsalanChang/flutter-expense-tracker-ui.git
+cd flutter-expense-tracker-ui
