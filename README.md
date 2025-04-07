@@ -8,7 +8,7 @@ A sleek and visually appealing **Expense Tracker** app UI built using **Flutter*
 
 | Home Page | Graph View |
 |-----------|------------|
-| ![Home Screen](screenshots/home_screen.png) | ![Graph Screen](screenshots/graph_screen.png) |
+| ![Home Screen]([screenshots/home_screen.png](https://github.com/ArsalanChang/expense_tracker_ui/blob/775f396a2e97e1ac0796f7cea9f32dd0138eb10d/screenshot1.png)) | ![Graph Screen]([screenshots/graph_screen.png](https://github.com/ArsalanChang/expense_tracker_ui/blob/775f396a2e97e1ac0796f7cea9f32dd0138eb10d/screenshot2.png)) |
 
 > _💡 Place your screenshots inside a folder named `screenshots/` in the root directory._
 
